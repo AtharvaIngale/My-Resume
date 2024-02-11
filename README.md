@@ -1,8 +1,8 @@
 **ATHARVA  KAILASH  INGALE**   
 
-**Mob. No.:** +91 9021856328   **|  Email:[** akingale00+job@gmail.com ](mailto:akingale00+job@gmail.com)** 
+**Mob. No.:** +91 9021856328   **|  Email:** [ akingale00+job@gmail.com ](mailto:akingale00+job@gmail.com)
 
-**LinkedIn:[** https://linkedin.com/in/atharva-ingale ](https://linkedin.com/in/atharva-ingale)** **|  Github:[** https://github.com/AtharvaIngale ](https://github.com/AtharvaIngale)**
+**LinkedIn:** [https://linkedin.com/in/atharva-ingale ](https://linkedin.com/in/atharva-ingale)  **|  Github:** [https://github.com/AtharvaIngale ](https://github.com/AtharvaIngale)
 
 **Career Objective:** Highly motivated and results-oriented software engineer with strong analytical and problem- solving![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.001.png) skills. Proven ability to design, develop, troubleshoot, and debug software programs for databases, applications, and systems. Dedicated to learning and adapting to new technologies and methodologies. Eager to contribute to Oracle's innovative work environment and drive impactful results. 
 
