@@ -4,7 +4,7 @@
 
 **LinkedIn:** [https://linkedin.com/in/atharva-ingale ](https://linkedin.com/in/atharva-ingale)   **|  Github:** [https://github.com/AtharvaIngale ](https://github.com/AtharvaIngale)
 
-(![Aspose Words 62aec138-3953-4e20-9d24-cf7f1b281fba 001](https://github.com/AtharvaIngale/My-Resume/assets/94461630/daf95444-925c-4fa9-9d9a-55ad143db329)
+![Aspose Words 62aec138-3953-4e20-9d24-cf7f1b281fba 001](https://github.com/AtharvaIngale/My-Resume/assets/94461630/daf95444-925c-4fa9-9d9a-55ad143db329)
 
 **Career Objective:** Highly motivated and results-oriented software engineer with strong analytical and problem- solving skills. Proven ability to design, develop, troubleshoot, and debug software programs for databases, applications, and systems. Dedicated to learning and adapting to new technologies and methodologies. Eager to contribute to Oracle's innovative work environment and drive impactful results. 
 
