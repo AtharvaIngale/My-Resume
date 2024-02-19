@@ -43,16 +43,13 @@
 - Engineered a Loan Prediction System utilizing decision tree, random forest, and SVM algorithms, achieving a 30% reduction in manual review efforts. 
 - Spearheaded the transformation of the loan approval process, introducing a data-driven approach for streamlined workflow and enhanced prediction accuracy.** 
 
-**My portfolio Website | Web development. [** Github** ](https://github.com/AtharvaIngale/Portfolio-website)![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.004.png)**
+**My portfolio Website | Web development. [Github](https://github.com/AtharvaIngale/Portfolio-website)![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.004.png)**
 
 - Orchestrated the development and launch of a dynamic personal portfolio website. 
 - Achieved a 20% increase in online visibility and engagement through strategic use of Bootstrap. 
 
 **Certification ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.005.png)**
 
-- **Supervised Machine Learning: Regression and Classification** by DeepLearning.AI & Stanford online on 
-
-  Coursera.**  
-
-- **Web Application Technologies and Django** by University of Michigan on Coursera.**  
+- **Supervised Machine Learning: Regression and Classification** by DeepLearning.AI & Stanford online on Coursera.
+- **Web Application Technologies and Django** by University of Michigan on Coursera.  
 - **Python for Data Science, AI & Development** by IBM Skills Network on Coursera.  
