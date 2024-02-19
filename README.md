@@ -1,8 +1,10 @@
+<p align="center">
 **ATHARVA  KAILASH  INGALE**   
 
 **Mob. No.:** +91 9021856328   **|  Email:** [ akingale00+job@gmail.com ](mailto:akingale00+job@gmail.com)
 
 **LinkedIn:** [https://linkedin.com/in/atharva-ingale ](https://linkedin.com/in/atharva-ingale)   **|  Github:** [https://github.com/AtharvaIngale ](https://github.com/AtharvaIngale)
+</p>
 
 ![](https://github.com/AtharvaIngale/My-Resume/assets/94461630/daf95444-925c-4fa9-9d9a-55ad143db329)
 
