@@ -1,5 +1,5 @@
 <p align="center">
-**ATHARVA  KAILASH  INGALE**   
+ATHARVA  KAILASH  INGALE   
 
 **Mob. No.:** +91 9021856328   **|  Email:** [ akingale00+job@gmail.com ](mailto:akingale00+job@gmail.com)
 
