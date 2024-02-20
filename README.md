@@ -6,7 +6,7 @@
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
-**Career Objective:** Highly motivated and results-oriented software engineer with strong analytical and problem- solving skills. Proven ability to design, develop, troubleshoot, and debug software programs for databases, applications, and systems. Dedicated to learning and adapting to new technologies and methodologies. Eager to contribute to Oracle's innovative work environment and drive impactful results. 
+**Career Objective:** Highly motivated and results-oriented software engineer with strong analytical and problem- solving skills. Proven ability to design, develop, troubleshoot, and debug software programs for databases, applications, and systems. Dedicated to learning and adapting to new technologies and methodologies. Eager to contribute to a innovative work environment and drive impactful results. 
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
@@ -20,7 +20,7 @@
 
 **EDUCATION** 
 
-**Modern Education Society’s College Of Engineering, Pune, MH, India**  *2019-2023* <br>
+**Modern Education Society’s College Of Engineering, Pune, MH, India**  <style="align=left">*2019-2023* <br>
 *B.E. (Computer)* | Overall: 8.12 (Out of 10) 
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
