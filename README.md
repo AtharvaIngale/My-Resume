@@ -20,7 +20,7 @@
 
 **EDUCATION** 
 
-**Modern Education Society’s College Of Engineering, Pune, MH, India**  <style="align=left">*2019-2023* <br>
+**Modern Education Society’s College Of Engineering, Pune, MH, India**                         *2019-2023* <br>
 *B.E. (Computer)* | Overall: 8.12 (Out of 10) 
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
