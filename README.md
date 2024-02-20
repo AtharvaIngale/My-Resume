@@ -20,7 +20,7 @@
 
 **EDUCATION** 
 
-**Modern Education Society’s College Of Engineering, Pune, MH, India**  <br>                         
+**Modern Education Society’s College Of Engineering, Pune, MH, India**<br>                         
 *2019-2023* | *B.E. (Computer)* <br>
 Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
@@ -28,7 +28,7 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 **WORK EXPERIENCE** 
 
-**The Spark Foundation**, Remote <br> 
+**The Spark Foundation**, Remote<br> 
 *Apr 22 – May 22* <br> 
 **Data Science and Business Analytics Intern**  
 
@@ -37,7 +37,7 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 **Skills Learnt:** Machine Learning algorithms, Data Science concepts, Data visualization and Jupyter notebook. 
 
-**The Spark Foundation**, Remote <br>  
+**The Spark Foundation**, Remote<br>  
 *Jan 22 – Feb 22* <br> 
 **Web Development Intern**    
 
