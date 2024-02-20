@@ -20,14 +20,16 @@
 
 **EDUCATION** 
 
-**Modern Education Society’s College Of Engineering, Pune, MH, India**                         *2019-2023* <br>
-*B.E. (Computer)* | Overall: 8.12 (Out of 10) 
+**Modern Education Society’s College Of Engineering, Pune, MH, India**  <br>                         
+*2019-2023* | *B.E. (Computer)* <br>
+Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
 **WORK EXPERIENCE** 
 
-**The Spark Foundation**, Remote         *Apr 22 – May 22* <br> 
+**The Spark Foundation**, Remote <br> 
+*Apr 22 – May 22* <br> 
 **Data Science and Business Analytics Intern**  
 
 - Successfully leveraged supervised machine learning algorithms (linear regression, decision trees) for business data analysis, leading to actionable insights and enhanced decision-making. 
@@ -35,7 +37,8 @@
 
 **Skills Learnt:** Machine Learning algorithms, Data Science concepts, Data visualization and Jupyter notebook. 
 
-**The Spark Foundation**, Remote  *Jan 22 – Feb 22* <br> 
+**The Spark Foundation**, Remote <br>  
+*Jan 22 – Feb 22* <br> 
 **Web Development Intern**    
 
 - Led the development of the "Helping Hand Charitable Trust" website, resulting in a 25% increase in user interaction and retention. 
