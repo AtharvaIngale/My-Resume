@@ -14,16 +14,20 @@
 
 - Programming Languages: Python, C++, HTML, CSS, JavaScript, PHP, SQL. 
 - Technologies & Domain: Artificial Intelligence, Data Science, Anaconda Navigator, VS Code, DBMS (MySQL, SQLite), Machine Learning, Power BI, Cloud Platforms (AWS, Azure), MS Excel 
-- Database Administration: Experience with designing, implementing, and maintaining databases for complex software applications 
+- Database Administration: Experience with designing, implementing, and maintaining databases for complex software applications
+
+ ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
 **EDUCATION** 
 
 **Modern Education Society’s College Of Engineering, Pune, MH, India**  *2019-2023* <br>
 *B.E. (Computer)* | Overall: 8.12 (Out of 10) 
 
+![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
+
 **WORK EXPERIENCE** 
 
-**The Spark Foundation**, Remote         *Apr 22 – May 22* <be> 
+**The Spark Foundation**, Remote         *Apr 22 – May 22* <br> 
 **Data Science and Business Analytics Intern**  
 
 - Successfully leveraged supervised machine learning algorithms (linear regression, decision trees) for business data analysis, leading to actionable insights and enhanced decision-making. 
@@ -39,6 +43,8 @@
 
 **Skills Learnt:** HTML, CSS, JavaScript, Api integration and Bootstrap. 
 
+![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
+
 **Projects**   
 
 **Loan Prediction System | Machine Learning.** [ Github ](https://github.com/AtharvaIngale/Loan-Prediction-System)
@@ -50,6 +56,8 @@
 
 - Orchestrated the development and launch of a dynamic personal portfolio website. 
 - Achieved a 20% increase in online visibility and engagement through strategic use of Bootstrap. 
+
+![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
 **Certification**
 
