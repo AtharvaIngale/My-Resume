@@ -20,8 +20,8 @@
 
 **EDUCATION** 
 
-**Modern Education Society’s College Of Engineering, Pune, MH, India**<br>                         
-*2019-2023* | *B.E. (Computer)* <br>
+**Modern Education Society’s College Of Engineering, Pune, MH, India**<br> 
+*2019-2023* | *B.E. (Computer)*<br>
 Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
@@ -29,7 +29,7 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 **WORK EXPERIENCE** 
 
 **The Spark Foundation**, Remote<br> 
-*Apr 22 – May 22* <br> 
+*Apr 22 – May 22*<br> 
 **Data Science and Business Analytics Intern**  
 
 - Successfully leveraged supervised machine learning algorithms (linear regression, decision trees) for business data analysis, leading to actionable insights and enhanced decision-making. 
@@ -37,8 +37,8 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 **Skills Learnt:** Machine Learning algorithms, Data Science concepts, Data visualization and Jupyter notebook. 
 
-**The Spark Foundation**, Remote<br>  
-*Jan 22 – Feb 22* <br> 
+**The Spark Foundation**, Remote <br>
+*Jan 22 – Feb 22* <br>
 **Web Development Intern**    
 
 - Led the development of the "Helping Hand Charitable Trust" website, resulting in a 25% increase in user interaction and retention. 
@@ -50,12 +50,12 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 **Projects**   
 
-**Loan Prediction System | Machine Learning.** [ Github ](https://github.com/AtharvaIngale/Loan-Prediction-System)
+**Loan Prediction System | Machine Learning.** [Github](https://github.com/AtharvaIngale/Loan-Prediction-System)
 
 - Engineered a Loan Prediction System utilizing decision tree, random forest, and SVM algorithms, achieving a 30% reduction in manual review efforts. 
 - Spearheaded the transformation of the loan approval process, introducing a data-driven approach for streamlined workflow and enhanced prediction accuracy.** 
 
-**My portfolio Website | Web development.** [Github](https://github.com/AtharvaIngale/Portfolio-website)![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.004.png)
+**My portfolio Website | Web development.** [Deployed](https://github.com/AtharvaIngale/Portfolio-website)
 
 - Orchestrated the development and launch of a dynamic personal portfolio website. 
 - Achieved a 20% increase in online visibility and engagement through strategic use of Bootstrap. 
