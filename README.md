@@ -1,11 +1,10 @@
 <h1 align="center"> ATHARVA  KAILASH  INGALE </h1>
 
-**Mob. No.:** +91 9021856328   **|  Email:** [ akingale00+job@gmail.com ](mailto:akingale00+job@gmail.com)
+**Mob. No.:** +91 9021856328   | **Email:** [akingale00+job@gmail.com](mailto:akingale00+job@gmail.com)
 
-**LinkedIn:** [https://linkedin.com/in/atharva-ingale ](https://linkedin.com/in/atharva-ingale)   **|  Github:** [https://github.com/AtharvaIngale ](https://github.com/AtharvaIngale)
+**LinkedIn:** [https://linkedin.com/in/atharva-ingale](https://linkedin.com/in/atharva-ingale)   |  **Github:** [https://github.com/AtharvaIngale](https://github.com/AtharvaIngale)
 
-
-![](https://github.com/AtharvaIngale/My-Resume/assets/94461630/daf95444-925c-4fa9-9d9a-55ad143db329)
+![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
 **Career Objective:** Highly motivated and results-oriented software engineer with strong analytical and problem- solving skills. Proven ability to design, develop, troubleshoot, and debug software programs for databases, applications, and systems. Dedicated to learning and adapting to new technologies and methodologies. Eager to contribute to Oracle's innovative work environment and drive impactful results. 
 
@@ -19,7 +18,8 @@
 
 **EDUCATION** 
 
-**Modern Education Society’s College Of Engineering, Pune, MH, India***  **2019-2023** B.E. (Computer) | Overall: 8.12 (Out of 10) 
+**Modern Education Society’s College Of Engineering, Pune, MH, India**  *2019-2023* 
+*B.E. (Computer)* | Overall: 8.12 (Out of 10) 
 
 **WORK EXPERIENCE** 
 
