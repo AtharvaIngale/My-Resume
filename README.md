@@ -48,7 +48,7 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
-**Projects**   
+**PROJECTS**   
 
 **Loan Prediction System | Machine Learning.** [Github](https://github.com/AtharvaIngale/Loan-Prediction-System)
 
@@ -62,7 +62,7 @@ Overall CGPA: 8.12 (Out of 10) First Class with Distinction.
 
 ![](Aspose.Words.62aec138-3953-4e20-9d24-cf7f1b281fba.002.png)
 
-**Certification**
+**CERTIFICATIONS**
 
 - **Supervised Machine Learning: Regression and Classification** by DeepLearning.AI & Stanford online on Coursera.
 - **Web Application Technologies and Django** by University of Michigan on Coursera.  
